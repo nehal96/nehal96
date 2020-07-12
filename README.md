@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Newt](https://github.com/newt-learning/newt-app), a personal learning management system - check it out!
+🔭 I’m currently working on [Newt](https://github.com/newt-learning/newt-app), a personal learning management system, where you can organize all your books, videos, articles, online courses, etc. in one place, track reading/watching stats, and improve your retention of select works with learning techniques like spaced repetition. Check it out!
 
 Here's some of the cool stuff I've worked on in the past:
 - #### :blue_book: [The first web app version of Newt](https://newt-organizer.herokuapp.com/)
