@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on [Newt](https://github.com/newt-learning/newt-app), a personal learning management system - check it out!
 
-<br></br>
 Here's some of the cool stuff I've worked on in the past:
 - #### :blue_book: [The first web app version of Newt](https://newt-organizer.herokuapp.com/)
   > Going to update and port it over very shortly after I finish and release the mobile app mentioned above. [Repo](https://github.com/newted/newt-organizer)
@@ -17,6 +16,7 @@ Here's some of the cool stuff I've worked on in the past:
   > - [Generating a Simpsons script with RNNs](https://github.com/nehal96/Simpsons-Script-Generation) - this was so awesome [I even formatted my non-sensical AI-generated script](https://github.com/nehal96/Simpsons-Script-Generation/blob/master/Simpson's%20Script%20-%20Queen's%20Elizabeth.pdf)
   > - [Translating from English to French with seq-2-seq RNNs](https://github.com/nehal96/Seq2Seq-Language-Translation)
   > - [Generating new faces with DCGANs](https://github.com/nehal96/Face-Generation-DCGAN)
+ - #### And more! (and not to mention more cool stuff in the future, of course)
 
 #### Thanks for visiting 👋
 ![](https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif)
