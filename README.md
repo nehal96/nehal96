@@ -8,7 +8,7 @@ Here's some of the cool stuff I've worked on in the past:
 - #### :earth_asia: [A Visual Story of Energy](https://nehal96.github.io/energy/)
   > An interactive essay which explores our energy consumption and how that affects our climate through data visualizations and engaging prose. (I'm really proud of this because it was one of my first major projects). [Repo](https://github.com/nehal96/energy)
 - #### :tophat: [The Mystery of Magic Squares](https://nehal96.github.io/magic-squares/)
-  > Exploring what magic squares are through animation and interactivity. (I really like this one because I got the idea after reading a book, and thought it would be cool to have to have an game-like, interactive version. One of my favourite parts of being in design/tech - just making random stuff). [Repo](https://github.com/nehal96/magic-squares)
+  > Exploring what magic squares are through animation and interactivity. (I really like this one because I learned about magic squares from a book, and thought it would be cool to have to have an game-like, interactive version. One of my favourite parts of being in design/tech - just impulsively making random stuff). [Repo](https://github.com/nehal96/magic-squares)
 - #### :robot: [Literally any of Udacity's Deep Learning projects](https://github.com/nehal96/Deep-Learning-ND-Exercises)
   > I had such a great time making these, AI and deep learning are such incredibly interesting topics. Projects include: 
   > - [Neural network to predict bike sharing patterns](https://github.com/nehal96/Bike-Sharing-Neural-Network)
